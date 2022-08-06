@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2017
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grp16gim", "Grp16gim\Grp16gim.csproj", "{8ADF4AA9-75D7-48FD-B265-95B51766428B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grp16gim.Tests", "Grp16gim.Tests\Grp16gim.Tests.csproj", "{3B72DD08-94D0-4C61-9978-79F8681F9636}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ADF4AA9-75D7-48FD-B265-95B51766428B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ADF4AA9-75D7-48FD-B265-95B51766428B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ADF4AA9-75D7-48FD-B265-95B51766428B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ADF4AA9-75D7-48FD-B265-95B51766428B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B72DD08-94D0-4C61-9978-79F8681F9636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B72DD08-94D0-4C61-9978-79F8681F9636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B72DD08-94D0-4C61-9978-79F8681F9636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B72DD08-94D0-4C61-9978-79F8681F9636}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {833C0DFA-A4C7-49C1-ABFF-B62452A57406}
+	EndGlobalSection
+EndGlobal
